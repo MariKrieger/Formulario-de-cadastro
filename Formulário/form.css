@@ -1,0 +1,50 @@
+header {
+    display: block;
+    background-color: blueviolet;
+    height: 60px;
+    text-align: center;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: cursive;
+    font-size: 40px;
+
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-family: cursive;
+   
+}
+
+.title {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+form{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%,-50%);
+    background-color: rgba(0, 0, 0, 0.6);
+    padding: 15px;
+    border-radius: 15px;
+    width: 20%;
+    height: 95%;
+    margin-top:150px;
+    margin-bottom: 30px;
+}
+
+.input {
+    text-align: center;
+
+}
+
+.button {
+    text-align: center;
+    display: block;
+    width: 60px;
+    height: 30px;
+}
